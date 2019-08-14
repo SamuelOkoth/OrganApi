@@ -1,7 +1,7 @@
  # Organisational API
  This project was created using spark framework and java language 
  #### Author
- * Samuel Okoth
+ * Samuel Okoth Ochiel
  ### Desription
  *   This is an application with news/articles/posts that are available to all (users)employees without navigating into any department, and others that are   within departments.
  
