@@ -3,7 +3,7 @@
  #### Author
  * Samuel Okoth
  ### Desription
- *  THis project tracks the whereabouts of wild animals
+ *   This is an application with news/articles/posts that are available to all (users)employees without navigating into any department, and others that are   within departments.
  
  ### Prerequisites
  * Git
