@@ -1,7 +1,7 @@
  # Organisational API
  This project was created using spark framework and java language 
  #### Author
- * Samuel Okoth Ochiel
+ * Samuel Okoth Ochiel sdfghjjbhhrdfghj
  ### Desription
  *   This is an application with news/articles/posts that are available to all (users)employees without navigating into any department, and others that are   within departments.
  
@@ -16,7 +16,7 @@
  ### Set up
  
  * install intellij
- * install postgress
+ * install postgres
  * install heroku 
  * install maven
  
