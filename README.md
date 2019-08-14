@@ -1,5 +1,5 @@
- # Wildlife tracker
- This project was created using spark framework and java language.
+ # Organisational API
+ This project was created using spark framework and java language 
  #### Author
  * Samuel Okoth
  ### Desription
@@ -21,7 +21,7 @@
  * install maven
  
  #### Accessing locally.
- * Clone the repo into your machine by running the command `https://github.com/SamuelOkoth/wildlifetracker`.
+ * Clone the repo into your machine by running the command `https://github.com/SamuelOkoth/OrganApi`.
  * Then navigate into the folder created .
  * Run the commmand `$ gradle build` to download all dependencies.
  * Then run the command `$ gradle run
